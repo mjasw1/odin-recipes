@@ -5,13 +5,18 @@
     } 
 
 .container {
-     overflow: hidden;
-    background-color: white; ;
+    overflow: hidden;
+    background-color: white;
+    margin-bottom: 10px;
 }
 
 .heading {
     padding: 15px;
     background-color: white;
+}
+
+.subheading {
+    padding: 12px;
 }
 
 .page {
@@ -42,4 +47,5 @@
 * img {
     height: auto;
     max-width: 500px;
+    padding: 12px;
     }
